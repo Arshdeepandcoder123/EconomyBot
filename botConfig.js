@@ -1,10 +1,9 @@
 module.exports = {
-    token: "ODcxOTg2MjEyMjk3MTM4MjE3.YQjScQ.qjcUbM2xYBAjKxX9f9DkXsR6YvU",
-    prefix: "?",
+    token: "YOUR BOT TOKEN HERE",
+    prefix: "YOUR BOT PREFIX HERE",
     admins: [
-        "775717417845522442",
-        "836813018636746772"
+        "PEOPLE WHO CAN USE ADD MONEY COMMAND"
 ],
     debug: true,
-    countChannel: "890481408655654952"
+    countChannel: "COUNT CHANNEL ID HERE"
 };
